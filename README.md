@@ -1,4 +1,4 @@
-# Cinema-Supply-Chain-Process-Optimization
+# Cinema Supply Chain Process Optimization
 
 ## Overview:
 This project was part of an university course, where we had to model and simulate a supply chain process of the biggest cinema in Cologne (Germany) and analyze the outcomes to find improvements.
